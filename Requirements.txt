@@ -1,0 +1,5 @@
+Python 3.10.15
+cv2 4.10.0
+cvzone 1.6.1
+mediapipe 0.10.18
+tensorflow 2.13.0
