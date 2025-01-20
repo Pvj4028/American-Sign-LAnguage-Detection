@@ -1,4 +1,4 @@
-### American-Sign-LAnguage-Detection
+### American-Sign-Language-Detection
 Hello All, I am sharing another project named American Sign Language Detection Model (TalkTogether) with you guys!!
 This project enables two-way communication between deaf and non-deaf person.
 This model is written in Python language and consist of two main files named server.py and client.py. 
